@@ -1,1 +1,3 @@
-# Ethiopian-Legal-and-Justice-AI-Assistant
+## Contributor
+
+Added documentation update by Betelhem.
